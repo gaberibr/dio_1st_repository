@@ -1,5 +1,5 @@
-# Dio_primeiro_repositório
+# Dio_1st_Repository
 Repository created for the project challenge.
 
-## Links úteis
+## Links
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
